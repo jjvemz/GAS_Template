@@ -1,2 +1,2 @@
-# GAS_Template
+# GASProject
 
