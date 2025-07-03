@@ -76,3 +76,6 @@ DerivedDataCache/*
 /.idea
 .dvignore
 .vsconfig
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb
+/Plugins/Developer
+/Plugins
