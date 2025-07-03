@@ -79,3 +79,4 @@ DerivedDataCache/*
 Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb
 /Plugins/Developer
 /Plugins
+/Plugins/Developer/RiderLink/Binaries
